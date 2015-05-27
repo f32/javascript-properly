@@ -1,2 +1,2 @@
 var message = "Howdy" + " " + "partner";
-console.log(message);
+console.log(message); // "Howdy partner"
