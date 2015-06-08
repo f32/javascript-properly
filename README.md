@@ -14,12 +14,12 @@ and here
 
 -->
 
-####[Jeremy McPeak](file:///home/th/Desktop/kwbj5ep.pdf "Beginning JavaScript [5th Edition]"):
+####Jeremy McPeak:
 >_last finished at: ch-3, p. 55 (e81);_<br>
 **Beginning JavaScript, read/practice: **<br>
-\#1 - Chapter 3 (Decisions and Loops);<br>
-\#2 - Chapter 4 (Functions and Scope);<br>
-\#7 - Chapter 18 (Common Mistakes, Debugging, and Error Handling);<br>
+\#1 - Chapter 3 (Decisions and Loops) - p.55-86;<br>
+\#2 - Chapter 4 (Functions and Scope) - p.87-98;<br>
+\#7 - Chapter 18 (Common Mistakes, Debugging, and Error Handling) - p.549-586;<br>
 
 ####[Codecademy.com](http://codecademy.com/ "codecademy.com"):
 >Work through the JavaScript Track on Codecademy. Specifically, work through these sections:<br>
