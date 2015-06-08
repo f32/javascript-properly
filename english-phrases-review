@@ -1,0 +1,148 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Taking the first condition first
+a response to the page
+condition
+reverses the result
+in front
+is posing the question
+you have an overall result
+These two halves
+substituting your particular value
+You’ll substitute this
+The easiest way to work out
+You look at each in detail in turn
+will the code execute
+the preceding
+are strung together
+JavaScript offers a better alternative
+but it’s a little verbose and can be quite confusing
+there is an outer if statement
+one nested inside another
+One way of doing this
+negation
+in this example we act
+If I’m not hot, then I’ll eat soup
+rely on
+it does mean you should
+arrives at the conclusion
+The end result is the same
+things that make no difference to the final result
+Otherwise
+operator acts on two boolean values
+If either of the conditions
+if the left‐hand side is false, JavaScript doesn’t even bother checking the right‐hand side and just returns a result of false
+wasting time
+it’s worth noting that JavaScript doesn’t like doing unnecessary work
+Although
+In any other circumstance, the result will be false
+operator actually produces a result
+This is very similar
+which again is evaluated to either true or false
+and this can be evaluated as true or false
+operator works very much as it does in English
+usually
+So if it seems a bit confusing on first read, don’t
+panic. All will become clear.
+with plenty of practical examples
+you take a look at how to use them
+bitwise operators
+whether
+You should have a general idea
+any number besides 0 and NaN converts to true
+which is then implicitly converted to a boolean
+Worse still
+code extract
+one of the most common errors
+braces are required
+the only code to execute is the first line below the if statement
+will be skipped over
+how did this alter the if statement
+the braces
+It evaluates
+This is not necessary, but it is a good practice to get into
+Also worth noting is the fact that the code inside the if statement’s opening brace is indented
+the processing moves on
+In this case,
+is initialized to the result
+is given an initial value
+you’ll be less likely to leave them out when they are actually needed
+If you get into this habit
+To avoid mistakes
+outcome
+regardless
+Instead of the
+A particularly easy mistake to make is to forget
+so we could equally as well have written this
+will treat them
+as belonging
+They mark out
+purpose
+hair-pulling experience
+each of these lines of code does end with a semicolon
+follows the if keyword
+is placed in parentheses
+curly braces
+execute all the code
+Test Condition
+might
+It works very much
+is more than a couple of lines long
+is one you’ll find yourself using in almost every program
+(either it’s amazingly easy to put one equals sign where you meant to put two
+can be mixed up
+important point to mention is the ease with which
+you may find yourself surprised by the outcome
+it’s both safer and clearer if you wrap the calculations on either side inside parentheses
+circumstances
+the multiplication calculations are worked out first
+Precedence
+the more useful of which are summarized
+termed the assignment operator
+you can assign to it a value
+comparison operators
+definition
+essential
+statement
+you can change the flow of the code’s execution depending on whether a condition is true or false
+Has the kettle boiled
+otherwise
+If so, then pour water into cup;
+used to demonstrate how code flows
+Recall from Chapter 1 the natural English instructions
+decision‐making capabilities
+can only evaluate
+You’ll notice
+if the variable today held the day of the week
+Conditions are comparisons
+their intelligence
+depending on whether a particular condition is met
+they enable the program to
+follow a certain course of action
+Statements
+to make your code smarter
+how decision making is implemented
+Validation
+preceding
+appearance
+capability
+gathered
+centigrade
+probably
+common
+far from being the only use
+/
