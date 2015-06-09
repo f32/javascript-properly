@@ -14,6 +14,92 @@
 
 
 
+
+
+
+
+
+
+
+until
+regardless
+execution instead moves to the first line
+despite the line
+See if you can spot the deliberate mistake that leads to an infinite loop
+until the user gets bored and cross
+will remain
+eventually
+conventional
+prior to the loop
+loop through
+Rather than having to work out
+although it’s much less common to do so
+also provides
+the equation
+is serving a dual purpose
+the equation
+Following this comes your first
+To keep track of how many times you have looped through the code
+would come in handy
+to plot these on a graph
+why would you want to repeat blocks of code anyway
+for both cases
+effectively
+underneath
+you are making use of the fact
+You may have spotted a problem with the switch statement
+If you forget to include this, you could end up executing the code for each case following the case that matches.
+very useful for picking up bugs
+the user might very well (despite the instructions)
+the block of code encompassing
+will be compared against
+an integer value
+a simple guessing game
+unless
+(as the name suggests)
+you want only the block of code directly underneath the relevant case statement to execute
+execution would commence from the code
+Each case statement specifies a value
+test expression
+Switch to the code where the case matches
+If a match is found
+case statements
+These curly braces mark out
+a more efficient alternative
+it confirms that they are all the same
+after having checked
+it goes through each letter in turn
+How does JavaScript deal with this
+so you have a few traps to watch out for
+All that’s been said
+they work just as well
+the code more difficult for humans to read
+we haven’t indented the code.
+This is quite tricky to describe with words
+you don’t end up with an
+where you expect
+you need to be extra careful with
+which catches the situation in which
+Failing that, you have a final
+if either of those conditions is true
+whether
+nor is it between 30 and 39
+Plus it also saves JavaScript from
+this makes it simpler
+You can achieve this
+and therefore harder to understand and debug
+unless you have a particularly tricky condition to evaluate
+into the smallest logical chunks
+the easiest way to approach understanding
+We did so simply for demonstration purposes
+Thus
+you ensure that
+parentheses
+evaluate
+themselves
+Let’s break down the condition
+you have an overall result
+The question posed by the RHS condition
 Taking the first condition first
 a response to the page
 condition
