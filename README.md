@@ -15,10 +15,10 @@ and here
 -->
 
 ####Jeremy McPeak:
->_last finished at: ch-3, p. 55 (e81);_<br>
+>_last finished at: ch-18, p. 555 (e581);_<br>
 **Beginning JavaScript, read/practice: **<br>
-\#1 - Chapter 3 (Decisions and Loops) - p.55-86;<br>
-\#2 - Chapter 4 (Functions and Scope) - p.87-98;<br>
+\#1 - ~~Chapter 3 (Decisions and Loops) - p.55-86;<br>~~
+\#2 - ~~Chapter 4 (Functions and Scope) - p.87-98;<br>~~
 \#7 - Chapter 18 (Common Mistakes, Debugging, and Error Handling) - p.549-586;<br>
 
 ####[Codecademy.com](http://codecademy.com/ "codecademy.com"):
@@ -29,5 +29,5 @@ and here
 \#6 - “‘While’ Loops in JavaScript,”<br>
 \#7 -  and “Control Flow.”
 
-#deadline: 10 Jun. 2015, inc
+#deadline: 10 Jun. 2015, inc (+1)
 ---
