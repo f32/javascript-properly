@@ -1,0 +1,20 @@
+function toCentigrade(degFahren) {
+  var degCent = 5 / 9 * (degFahren - 32);
+
+  document.write(degFahren + " Fahrenheit is " +
+                 degCent + " Celsius.<br>");
+}
+
+function toFahrenheit(degCent) {
+  var degFahren = 9 / 5 * degCent + 32;
+
+  document.write(degCent + " Celsius is " +
+                 degFahren + " Fahrenheit.<br>");
+}
+
+function convert(converter, temperature) {
+  return converter(temperature);
+}
+
+convert(toFahrenheit, 23);
+convert(toCentigrade, 75);
