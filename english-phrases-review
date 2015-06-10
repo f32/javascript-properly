@@ -4,22 +4,134 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+may arise
+in sight.
+mind your own business
+If users can enter dud data
+Thoroughly
+That seems like stating the obvious
+to stop them from occurring in the first place
+Conditions beyond your control
+Error Handling
+occur
+how often this error crops up
+misleading.
+deliberate
+straightforward
+Ordinarily,
+will attempt to treat it as one.
+To perhaps confuse the issue
+we intended
+examine the following code
+and Vice Versa
+is easily overlooked
+embedded in
+What makes things even trickier
+Hence
+Using Equals Rather than Equality
+Similarly
+a deliberate mistake
+you always need to be aware of case
+You might wonder why it’s there
+On first glance
+your only clue
+it’s quite likely
+so you can identify
+in an oblique way
+a major source
+can lead
+consequence
+explicitly
+implicitly
+when it comes
+is actually very easygoing
+a briefer look
+enables you to hunt for difficult bugs
+the contents
+to step through your code
+how you can cope
+arise
+In particular
+annoying typos
+Spotting common mistakes that everyone makes—even pros
+remains alive
+length
+private
+bits of code
+in the remainder
+belt
+foundations
+Everything from now on
+you concluded your look
+relatively simple
+and pass it the appropriate converter function
+Admittedly,
+the supplied value
+somewhat
+you will spend precious time finding
+if you replicated it
+It can also make it easier to introduce bugs that are difficult to find and fix
+It adds extra, and often unnecessary, complexity and confusion to your code
+it’s perfectly valid
+So now that you understand how scope works
+Consider the following
+handles this seemingly catastrophic event
+to make way
+whereby
+Every so often
+unless
+retain their value
+consider our standard
+but they all boil d the supplied
+valueown to creating variables and functions in functional scope
+unintentionally
+and thus its value is 20 everywhere it is used
+imperative
+extent
+Well, this leads neatly
+subtle point
+apart from the first
+You should be pretty familiar with how the code in the function works
+be defined
+you’d have to alter the function definition
+here just one piece
+you need to stick to the same rules for naming
+Have a go at creating your own functions now
+invoking
+Unlike
+frequently
+a bit like
+that do not explicitly return a value—
+curly
+Usually
+so that when you see them being used later in your code
+meaningful
+infamous
+You’ve probably already realized
+As you work your way through the book
+needs to be passed
+whereas
+a number of handy built‐in functions
+you have come across a number
+Over the course of the book so far
+encapsulate
+numbers in this case
+calculation of an average
+provide
+square root of a number
+suggested solutions
+remains
+respectively
+you can decide on a course of action to follow
+The ability to make decisions is essentially what gives the code its “intelligence.”
+core
+Summary
+where the break statement comes in handy
+you might want to stop the code in its tracks
+prematurely
+it’s best avoided
+unless really necessary
+fairly rare
 
 until
 regardless
