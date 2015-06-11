@@ -15,7 +15,7 @@ and here
 -->
 
 ####Jeremy McPeak:
->_last finished at: ch-18, p. 555 (e581);_<br>
+>_last finished at: ch-18, p. 564 (e590);_<br>
 **Beginning JavaScript, read/practice: **<br>
 \#1 - ~~Chapter 3 (Decisions and Loops) - p.55-86;<br>~~
 \#2 - ~~Chapter 4 (Functions and Scope) - p.87-98;<br>~~
@@ -29,5 +29,5 @@ and here
 \#6 - “‘While’ Loops in JavaScript,”<br>
 \#7 -  and “Control Flow.”
 
-#deadline: 10 Jun. 2015, inc (+1)
+#deadline: 10 Jun. 2015, inc (+3)
 ---
