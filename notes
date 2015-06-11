@@ -1,0 +1,1 @@
+Before executing any code, the JavaScript engine goes through all the code and checks for syntax errors, or code that breaches JavaScript’s rules. If the engine finds a syntax error, the browser deals with it as usual; your try clause never runs and therefore cannot handle syntax errors.
