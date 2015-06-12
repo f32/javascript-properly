@@ -1,1 +1,16 @@
+
+
+
+
+
+
+location.href - will tell you the web page’s URL
+
+
 Before executing any code, the JavaScript engine goes through all the code and checks for syntax errors, or code that breaches JavaScript’s rules. If the engine finds a syntax error, the browser deals with it as usual; your try clause never runs and therefore cannot handle syntax errors.
+
+
+Safari’s story is similar to IE’s. Safari’s rendering engine is called Webkit, and the folks that write and maintain Webkit built a separate tool, codenamed Drosera, that contained the tools similar to the other browsers. It was a separate download, and it required you to attach it to a specific Safari/ Webkit window. Today, Safari includes a tool called Web Inspector, and it provides the functionality you would expect from a browser‐based suite of tools.
+
+
+Chrome is built using a heavily modified version of WebKit
