@@ -19,7 +19,7 @@ and here
 **Beginning JavaScript, read/practice: **<br>
 \#1 - ~~Chapter 3 (Decisions and Loops) - p.55-86;<br>~~
 \#2 - ~~Chapter 4 (Functions and Scope) - p.87-98;<br>~~
-\#7 - Chapter 18 (Common Mistakes, Debugging, and Error Handling) - p.549-586;<br>
+\#7 - !! ~~Chapter 18 (Common Mistakes, Debugging, and Error Handling) - p.549-586;<br>~~
 
 ####[Codecademy.com](http://codecademy.com/ "codecademy.com"):
 >Work through the JavaScript Track on Codecademy. Specifically, work through these sections:<br>
@@ -31,3 +31,14 @@ and here
 
 #deadline: 10 Jun. 2015, inc (+3)
 ---
+
+
+<!--
+##Progress:
+
+
+2015-06-12:
+2015-06-11: ~10 pages of 'Beginning js';
+
+
+ -->
