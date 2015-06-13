@@ -13,30 +13,48 @@ and here
 ####Jeremy McPeak:
 
 -->
-
-####Jeremy McPeak:
->_last finished at: ch-18, p. 564 (e590);_<br>
-**Beginning JavaScript, read/practice: **<br>
-\#1 - ~~Chapter 3 (Decisions and Loops) - p.55-86;<br>~~
-\#2 - ~~Chapter 4 (Functions and Scope) - p.87-98;<br>~~
-\#7 - !! ~~Chapter 18 (Common Mistakes, Debugging, and Error Handling) - p.549-586;<br>~~
+######_deadline: 18 Jun. 2015, inc. | stopped at: ch-18, p. 564 (e590);_<br>
 
 ####[Codecademy.com](http://codecademy.com/ "codecademy.com"):
->Work through the JavaScript Track on Codecademy. Specifically, work through these sections:<br>
-\#3 - “Introduction to JavaScript,”<br>
-\#4 - “Functions,”<br>
-\#5 - “‘For’ Loops in JavaScript,”<br>
-\#6 - “‘While’ Loops in JavaScript,”<br>
-\#7 -  and “Control Flow.”
+Work through the JavaScript Track on Codecademy. Specifically, work through these sections:<br>
+> \#1 - “Introduction to JavaScript,”<br>
+\#2 - “Functions,”<br>
+\#3 - “‘For’ Loops in JavaScript,”<br>
+\#4 - “‘While’ Loops in JavaScript,”<br>
+\#5 -  and “Control Flow.”
 
-#deadline: 10 Jun. 2015, inc (+3)
+
+####Jeremy McPeak:
+> \#6 - ED5 - Chapter 5 (JavaScript — An Object-Based Language) - p.99-152;<br>
+
+
+####JavaScriptIsSexy.com:
+> \#7 - Read article [JavaScript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/ "http://javascriptissexy.com/javascript-objects-in-detail/")
+
+
+####[Codecademy.com](http://codecademy.com/ "codecademy.com"):
+Work through the last three sections of the Codecademy JavaScript track:   <br>
+> \# 8 - “Data Structures,”    <br>
+\# 9 - “Objects 1,”          <br>
+\#10 - “Objects 2.”          <br>
+
+
+####Jeremy McPeak:
+> \#11 - 5ED - Chapter 8 (Programming the Browser) - p.205-228 / (4ED:189-218);<br>
+> \#12 - 4ED - Chapter 15 (JavaScript Frameworks) - p.527-536, and stop just after you complete this section: “Digging Deeper Into jQuery”;<br>
+
+
+####[Codecademy.com](http://codecademy.com/ "codecademy.com"):
+> \#13 - Work through the entire [jQuery Track](http://www.codecademy.com/tracks/jquery "http://www.codecademy.com/tracks/jquery") on Codecademy.
+
+
 ---
 
 
 <!--
 ##Progress:
 
-
+2015-06-13: 0; just README file edited
 2015-06-12:
 2015-06-11: ~10 pages of 'Beginning js';
 
