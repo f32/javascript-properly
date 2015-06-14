@@ -13,7 +13,7 @@ and here
 ####Jeremy McPeak:
 
 -->
-######_deadline: 18 Jun. 2015, inc. | stopped at: ch-18, p. 564 (e590);_<br>
+######_deadline: 18 Jun. 2015, inc. | stopped at: Jeremy McPeak, ch-18, p. 564 (e590);_<br>
 
 ####[Codecademy.com](http://codecademy.com/ "codecademy.com"):
 Work through the JavaScript Track on Codecademy. Specifically, work through these sections:<br>
