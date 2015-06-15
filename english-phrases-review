@@ -24,11 +24,130 @@
 
 
 
+we don't want to do boring, repetitive work!
+What if a user makes an inappropriate choice like 'dog'?
+Let's break the problem down a little.
+Now we consider the other scenarios.
+You're doing great!
+We carried over the code from the previous section, but it is a comment. Leave it there for now.
+When programming a game like this, you have to first figure out all the various outcomes
+estimated course time
+But there are three outcomes
+will determine who wins
+With your newly acquired knowledge of functions, let's go build a rock, paper, scissors game next.
+Hopefully you can see how powerful functions are
+Get some more shut eye!
+You're getting plenty of sleep! Maybe even too much!
+These can be very wordy, and a pain to type repeatedly.
+rectangle
+length
+You are a creature of habit
+See how lack of spacing makes debugging hard
+That just means figuring out what the heck went wrong with your code
+It helps the computer know where there are stopping points in the code
+The semi-colon acts like a period in a sentence
+Your reusable block of code follow this
+substituted
+parentheses
+The entire function ends with a semi-colon.
+a semi-colon
+curly brackets
+The computer will look out for it in the code block.
+Let's break down
+joining of strings is called concatenation
+It's a placeholder word that we give a specific value when we call the function
+capital letter
+and the convention is to use lowerCamelCase
+It is tedious to have to repeat to Jane the same 'bake' instructions every time.
+Mix all the ingredients in a bowl
+Pre-heat the oven at 300 degrees
+Let's briefly review
+efficiently
+That is incredibly impressive
+It is worthwhile asking your user for feedback!
+equal
+assignment
+I set a pace, so I can race without pacing.
+"You and Bieber start racing. It's neck and neck! You win by a shoelace!"
+The story heats up!
+is about to talk
+give them an encouraging message to play on!
+will hold the user's response
+involve
+conditional statements
+pat
+bring back
+pretend
+easily
+whether that is a number or a string
+swap in
+swap out
+make sure we really have it nailed down
+tricky
+chopping
+entire
+Substrings
+odd
+even
+There is nothing left over
+Consider
+divisibility
+remainder of that division
+to construct
+another example
+ground
+Mid-lesson breather
+literal
+Computers aren't that smart
+instead
+the order and punctuation matter
+Otherwise
+is made up of
+below
+log . printing out
+either
+above
+numerals
+as labels
+sequences of characters
+quantities
+Data
+keep track
+Programs can't yet
+Ponder these Two Rhetorical Questions
+sophisticated
+is not affiliated
+Nevertheless
+excellence
+battled-tested expertise
+an expert Modern Frontend Developer has intangibles, such as fortitude
+buttery smooth animations
+build apps for evergreen (new versions) and old browsers
+interest in Backbone.js is plummeting
+assignment
+probably
+spreadsheet
+interaction
+has many uses
+figure out
+others want to collaborate with you
+does not compute!
 
-
-
-
-
+What can we generalize so far?
+commonly used
+There are more commands you can use the master the command line
+path
+we specified
+switches you
+stands for
+as well
+probably already familiar
+root directory
+we refer to folders as directories
+is ready to take in
+there are a few commonly used commands to become familiar with
+you can get a clean slate for this exercise
+shell prompt
 
 flow
 regardless
