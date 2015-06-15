@@ -1,7 +1,13 @@
 
 
 
+If you get an error, check carefully, line by line.
 
+
+confirm('This is an example of using JS to create some interaction on a website. Click OK to continue!');
+
+
+a period (full stop)
 
 
 location.href - will tell you the web page’s URL
