@@ -14,15 +14,90 @@
 
 
 
-
-
-
-
-
-
-
-
-
+nap
+It evaluates
+together all on your lonesome
+Now that you've added
+allows you to preset a number of options
+it might be annoying to type
+Sneak preview: the switch statement
+accidentally
+yet another string
+as well as learn about a fancy new function
+if a number is evenly divisible by another number
+since either you beat the dragon (and the slaying's over) or the dragon beat you!
+Either way
+a congratulatory message
+Great! Now we want to add a couple of branches to our program so it can handle different outcomes
+The dragon burninates you! You're toast.
+You slew the dragon
+how you fare against the dragon
+you’ll battle a dragon
+control flow statements  (like if/else)
+Your turn!
+It runs once because 777 tells it to
+will continue so long as the condition being evaluated is true
+When this is the case
+at least one time no matter what
+No restrictions on this one;
+In these cases, it's often a matter of preference.
+Next up
+that should do the trick
+You can do this however you like
+as well as
+from scratch
+We've written the less succinct version in the editorfrom scratch
+Get in the habit of typing exactly as much as you need to
+we don't bother
+Brevity is the soul of programming
+To prevent this from happening
+this simpler syntax should be a breeze for you.
+Since you've already mastered
+understands 1 to mean 999 and 55
+we didn't know ahead of time how many
+we keep flipping the coin as long as the coin turns up heads
+Tails! Done flipping
+Heads! Flipping again
+bit for now
+where you don't know in advance
+Say, for example, you wanted to keep choosing playing cards from a deck until you get a spade
+But what if you didn't know ahead of time when to stop
+While we're at it
+and move on to more JavaScript goodness
+Think about how you might fine-tune this program
+In the meantime
+think hard about when your loop should stop
+so it picks up
+iterator
+For instance
+You can treat
+Essentially
+Once you've got the hang of
+and so on and so forth // и так далее и тому подобное
+You have so many useful tricks up your sleeve
+But they are worth learning because they are really useful.
+Enjoy yourself while smashing through this coding!
+Beware
+We sugges
+Except now
+each time we loop over
+Small complication
+and we're done
+You have a great handle on
+This satisfies the condition
+It starts off with
+A more efficient way to code
+This has meant we
+The examples we've looked at have used 22+2
+We can now control where the for loop starts and ends. What about controlling what happens in between?
+determines that
+it does so by starting off where
+loop makes use of a counting variable
+Below
+But what you're probably really keen to do is write your own
+far less code
+more fancy things
+Subsequent exercises will
 
 we don't want to do boring, repetitive work!
 What if a user makes an inappropriate choice like 'dog'?
