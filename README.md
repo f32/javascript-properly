@@ -15,14 +15,6 @@ and here
 -->
 ######_deadline: -- Jun. 2015, inc. | stopped at: Jeremy McPeak, p.99(e125);_<br>
 
-<!-- ####[Codecademy.com](http://codecademy.com/ "codecademy.com"):
-Work through the JavaScript Track on Codecademy. Specifically, work through these sections:<br>
-> \#1 - ~~“Introduction to JavaScript,”<br>~~
-\#2 - ~~“Functions,”<br>~~
-\#3 - ~~“‘For’ Loops in JavaScript,”<br>~~
-\#4 - ~~“‘While’ Loops in JavaScript,”<br>~~
-\#5 -  and ~~“Control Flow.”~~ -->
-
 #### Head First:
 > Objects, etc.
 
