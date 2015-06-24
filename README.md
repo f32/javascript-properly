@@ -17,6 +17,7 @@ and here
 
 #### Head First:
 > Objects, etc.
+> DOM
 
 
 ####Jeremy McPeak:
