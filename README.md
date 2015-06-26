@@ -16,7 +16,7 @@ and here
 ######_deadline: -- Jun. 2015, inc. | stopped at: Jeremy McPeak, p.99(e125);_<br>
 
 #### Head First:
-> DOM
+> DOM++ 
 
 
 ####Jeremy McPeak:
