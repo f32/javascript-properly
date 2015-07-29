@@ -1,6 +1,10 @@
-function bark(name, weight) {
-  // some code
-}
+bark("juno", 20);
+bark("scottie", -1);
+bark("dino", 0, 0);
+bark("fido", "20");
+bark("lady", 10);
+bark("bruno", 21);
+
 
 function bark(name, weight) {
   if (weight > 20) {
