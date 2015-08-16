@@ -18,3 +18,7 @@ personnel[2][2] = "Address2";
 document.write("Name: " + personnel[1][0] + "<br>");
 document.write("Age: " + personnel[1][1] + "<br>");
 document.write("Address: " + personnel[1][2] + "<br>");
+
+document.write("Name : " + personnel[0][0] + "<br>");
+document.write("Age : " + personnel[0][1] + "<br>");
+document.write("Address : " + personnel[0][2] + "<br>");
