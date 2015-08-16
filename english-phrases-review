@@ -17,27 +17,358 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+confusing
+storing it
+is very much the same
+indices
+You just state
+one dimension
+a neater solution
+the corresponding
+sequentially
+Suppose
+A Multi-Dimensional Array
+Take each addition to the array in turn
+Take each addition
+flexible
+the latter
+Obviously
+preceding
+remainder
+declaring
+slightly
+to say up front
+Confusing, but you’ll soon get used to this
+and so on
+after all, we humans tend to say the first item of data
+distinguish
+you could use
+invaluable
+whereas
+whether
+the possible confusion
+has enough sense to make data type conversions like this whenever it needs to
+decimal
+could encounter
+determines
+radix
+You could just
+is considered to be part of the allowable number
+decimal
+fractional numbers
+integer
+it assumes
+To add to the possible confusion
+Consider
+even though
+This is especially likely
+you may be given
+yourself.
+Usually
+whenever it needs to,
+enough sense
+then concatenates the two
+the sensible choice
+sophisticated
+Something to be aware of
+instead.
+it does a lookup
+to spot
+the escape sequence
+realizes
+an expression
+along with the
+rather
+is intelligent enough
+wrapped around it
+A prime example
+the value of this expression will be as follows
+you now make use of
+much as you do the black
+if you left this out
+adds them up
+Recall that when applied to numbers
+as well as
+That concludes a brief look a
+this equates to
+This raises
+(approximately).
+implicitly
+the equation
+solely for reference
+how to spot invalid characters posing as numeric data
+it’s still a fairly simple example
+Centigrade is another name for the Celsius temperature scale.
+a slightly more complex example
+The same applies
+it always gets left until last
+finishes off
+Doesn’t JavaScript add up right?
+So what gives
+might
+they get dealt with sooner
+operator Precedence
+use this operator as a shortcut for increasing the value
+therefore,
+such subtlety can easily be overlooked and lead to bugs in code
+is incremented by one first, then times 10 and plus 1
+So the equation reads
+It’s a subtle difference
+as they usually are
+are used on their own
+a poke in the eye
+you may well be thinking that
+When you are familiar
+involving its previous value
+which are represented by two plus signs
+are so commonly used
+familiar
+though admittedly just one calculation won’t tax it too much
+After all
+the more calculations you force JavaScript to do
+literal values (actual values, such as 15 / 10),
+which was set to 15
+expressions in places
+almost never
+a succession
+In actual fact
+perform
+forward slash (/), respectively
+JavaScript has a range of basic mathematical capabilities, such as addition, subtraction, multiplication, and division.
+capabilities,
+number-crunching and text-based operations
+obtained
+gain
+to figure out how much would be left over
+deduct
+add up
+—so just why would you want to use variables at all
+so far
+whereas
+then you set
+remains unaffected
+respectively
+easily
+Assigning Variables with the Value of Other Variables
+contents
+may not occur until another page is loaded
+as efficient as it should be
+until eventually the computer would run out and the system would grind to a halt
+eventually
+consumed
+allocate
+is freed up
+Almost anywhere that you can use
+almost
+literal
+However
+an actual primitive value
+odd
+actual data
+Currently
+assignment operator
+assigning values
+declared
+instead
+warns
+as long as
+consistently
+it’s best to stick with one of them
+to slip into your code
+elsewhere
+so that you can refer to it
+unless
+variables are lost
+to store and retrieve the data
+are held in the computer’s memory
+unlike
+data that can be altered, or varied
+variable.
+in several stages
+suppose you also provide a facility for increasing loan repayments to pay off the loan early
+how much she owes
+how much is still outstanding on this loan
+loan
+However
+permanent store
+temporarily
+You take a more detailed look
+decision-making abilities.
+based on whether the answer is true or false
+false
+hopefully
+The purpose
+commonplace
+The least obvious of these is the last
+character set
+hexadecimal //ˌheksəˈdes(ə)məl
+escape sequences
+in conjunction with
+still applies
+falls over wondering
+as marking
+that is // то есть
+neither is / neither
+recognize
+simply by enclosing it inside quotation marks
+text is to be treated as text
+generally
+It kindly hides
+unless
+Fractional numbers
+span
+boolean.
+numerical,
+some of the more commonly used data types
+The things that you can do with data and the results you’ll get depend on the type of data being used, even if you don’t explicitly specify what type it is
+what sort of data type you intended
+explicit
+on occasion
+Why not just cut to the chase
+Furthermore
+JavaScript will work that out for itself
+a lot more forgiving about how you use different types of data
+is a weakly typed language
+applicable to its type
+you need to explicitly state what sort of data you are dealing with
+whenever
+recognize
+various types
+to mention just a few
+information is obtained directly without being processed
+filter out
+retrieve
+related files
+Representing data in code
+Its existence is marked out by the
+along
+is embedded
+more extensive tools will prove valuable once you get more experience
+Unlike
+upon
+In particular, this brief introduction covered the following:
+it only uses features available in older browsers
+You could make sure your code is backward compatible
+you need to somehow deal with older browsers
+standards-compliant browsers
+really comes down to
+browser creators are complying with standards
+to a much greater extent than ever before
+Each new release of any browser sees new and exciting features
+it’s not always the case that the property
+cross-browser compatible
+regardless // несмотря на
+preceding example
+the code would be attempting to access a paragraph before it existed in the page
+Otherwise
+It’s important in that the code accessing the paragraph is after the actual  <p/>  element
+You’ll notice
+This proves more useful
+is particularly low
+is just that
+by means of
+Another important point raised by this example
+Parsing is brought to a halt
+the browser carries on parsing down
+to be given
+In particular
+processes it
+certain tasks
+recognizes
+solely for your benefit
+being displayed
+The browser halts it's parsing
+the web page flow
+let you dip your toes into the JavaScript waters
+Moreover
+the preceding line
+you look at it in greater depth
+reference
+for the purpose of
+is treated
+convenient place
+So much easier
+at some point
+probably // вероятно
+rather // скорее
+that performs
+reuse // повторное использование
+beware - остерегаться
+is common when incorporating - является общей тенденцией при включении
+However - однако
+Generally - как правило
+Therefore - следовательно
+must be accompanied - должен сопровождаться
+easier for you to work out
+Though it’s not compulsory
+the capability to specify
+element has another arrow in its quiver
+assume - предполагать, допускать
+to omit - опустить (пропустить)
+and so is considered bad practice
+when the browser spots tags - когда браузер видит теги
+Basically - в основном
+chunk
+but rather script code to be processed - а скорее код сценария для обработки
+is much like
+start on - начать
+Wherever a piece of code does not work on any of these browsers, a note to this effect is made in the text.
+differences exist in how they view web pages and treat JavaScript code
+you take an in-depth look
+as it’s running
+though when our programs go wrong, we prefer to call them “unexpected additional features.”
+spot and solve errors
+increasing complexity - возрастающая сложность
+equally good
+more proficient - более умелый/опытый
+that is beyond a tool’s capability
+attempt
+the more advanced logic
+rather than rely
+specifically aimed
+evaluation
+how to obtain them
+full-fledged productivity software
+conventional desktop applications
+rival the speed
+conventional
+advances - достижения
+such as a number for his age rather than text
+in preparation
+user input validation and enhancement
+That’s a rather broad statement,
+primarily
+On the Internet, // http://english.stackexchange.com/questions/4419/in-the-internet-vs-on-the-internet
+These consist of four sets of numbers
+instead
+The shopkeeper serves the customer by reaching for the item requested
+majority
+appendices
+Initially, you’ll look at the essentials before the more advanced stuff
+in particular hosts
+developers still have to cope with older
+is certainly more unified than it has ever been, - является, конечно, более унифицированным, чем раньше/ранее/до этого
+really took off - действительно взлетел
+Initially - вначале, первоначально
+interchangeably - взаимозаменяемые
+surprisingly powerful - удивительно мощный
+Particularly - особенно
+a good place to dispel a widespread myth - хорошее место, чтобы развеять распространённый миф
+Perhaps - возможно
+as much as you like - так много, сколько вам нравится
+hence - следовательно
+occasions - случаи
+This is pretty much - это, в значительной степени
+pour water into cup - налить..
+works out what action you want it to take - определяет (разбирается), какие действия вы хотите ему делегировать
+are processed from the top line downward - обрабатываются от верхней линии к нижней
+what is termed - то, что называется
+wide variety - широкое разнообразие
+Put simply - проще говоря
+you are probably already well aware - вам, вероятно, уже хорошо известно
+Having bought - купив
+useful - полезный, пригодный
+a brief look - краткий обзор
 
 eligible
 I worked with Meteor in its infancy.
