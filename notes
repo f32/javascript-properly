@@ -8,6 +8,216 @@
 
 /   /   /   /   /   /   /   /
 
+
+
+/   /   /   /   /   /   /   /
+
+
+
+/   /   /   /   /   /   /   /
+
+
+
+/   /   /   /   /   /   /   /
+
+document.write("\"" + myString + "\" is " + parseInt(myString, 10) +
+" as an integer" + "<br/>");
+As you can see, you can use parseInt() and parseFloat() in the same places you
+would use a number itself or a variable containing a number. In fact, in this line the
+JavaScript engine is doing two conversions. First, it converts myString to an integer,
+because that’s what you asked for by using parseInt(). Then it automatically
+converts that integer number back to a string, so it can be concatenated with the other
+strings to make up your sentence. Also note that only the 56 part of the myString
+variable’s value is considered a valid number when you’re dealing with integers.
+Anything after the 6 is considered invalid and is ignored.
+
+/   /   /   /   /   /   /   /
+
+you can use \xNN to insert special
+characters not available to type in directly. (NN is a hexadecimal number representing
+a character from the Latin-1 character table.)
+
+Something to be aware of when using special characters is that they are not
+necessarily cross-platform–compatible. Although you can use \xNN for a certain
+character on a Windows computer, you may find you need to use a different character
+on a Mac or a Unix machine.
+
+/   /   /   /   /   /   /   /
+
+One thing you’ll find yourself doing again and again in JavaScript is joining two strings to
+make one string—a process termed __concatenation__
+
+/   /   /   /   /   /   /   /
+
+var totalCostOfShopping;
+totalCostOfShopping = 10 + 5 + 5;
+alert(totalCostOfShopping);
+First, you declare a variable, totalCostOfShopping, to hold the total cost.
+In the second line, you have the code 10 + 5 + 5. This piece of code is known as an
+__expression__. When you assign the variable totalCostOfShopping the value of this
+expression, JavaScript automatically calculates the value of the expression (20) and stores
+it in the variable. Notice that the equals sign tells JavaScript to store the results of the
+calculation in the totalCostOfShopping variable. This is called assigning the value of the
+calculation to the variable, which is why the single equals sign (=) is called the __assignment
+operator__.
+Finally, you display the value of the variable in an alert box.
+The operators for subtraction and multiplication work in exactly the same way. Division is
+a little different.
+
+/   /   /   /   /   /   /   /
+
+What variables enable you to do is temporarily hold information that you can use for
+processing in mathematical calculations, in building up text messages, or in processing
+words that the user has entered.
+
+/   /   /   /   /   /   /   /
+
+as a general rule, basic data types,
+such as text and numbers, are always copied when assigned, whereas more complex
+data types, like the objects you come across in Chapter 5, are actually shared and not
+copied. For example, if you have a variable with the string Hello and assign five
+other variables the value of this variable, you now have the original data and five
+independent copies of the data. However, if it was an object rather than a string and
+you did the same thing, you’d find you still have only one copy of the data, but that
+six variables share it. Changing the data using any of the six variable names would
+change it for all the variables.
+
+/   /   /   /   /   /   /   /
+
+The first thing you do in the script block is declare your two variables: string1 and
+string2. However, notice that you have assigned them values at the same time that
+you have declared them. This is a shortcut, called __initializing__, that saves you typing
+too much code:
+var string1 ="Hello";
+var string2 = "Goodbye";
+
+/   /   /   /   /   /   /   /
+
+You’ve seen that you can assign a variable with a number or string, but can you assign a
+variable with the data stored inside another variable? The answer is yes, very easily, and in
+exactly the same way as giving a variable a literal value. For example, if you have
+declared the two variables myVariable and myOtherVariable and have given the variable
+myOtherVariable the value 22, like this:
+
+var myVariable;
+var myOtherVariable;
+myOtherVariable = 22;
+
+you can use the following line to assign myVariable the same value as myOtherVariable
+(that is, 22):
+
+myVariable = myOtherVariable;
+
+/   /   /   /   /   /   /   /
+
+The previous value of myFirstVariable is lost forever. The memory space used to
+store the value is freed up automatically by JavaScript in a process called garbage
+collection. Whenever JavaScript detects that the contents of a variable are no longer
+usable, such as when you allocate a new value, it performs the garbage collection
+process and makes the memory available.
+
+/   /   /   /   /   /   /   /
+
+In computing, information is referred to as __data__.
+Data can come in many different forms, or __types__.
+
+using the backslash character (\), which
+has special meaning in JavaScript and is referred to as an __escape character__. The backslash
+tells the browser that the next character is not the end of the string, but part of the text. So
+'Peter O\'Toole' will work as planned.
+
+a literal value (that is, a piece of actual data
+rather than data obtained by a calculation or from another variable
+
+/   /   /   /   /   /   /   /
+
+If you want your website to be professional, you need to somehow deal with older
+browsers. You could make sure your code is backward compatible—that is, it only uses
+features available in older browsers. However, you may decide that it’s simply not worth
+limiting yourself to the features of older browsers. In this case you need to make sure your
+pages degrade gracefully. In other words, make sure that although your pages won’t work
+in older browsers, they will fail in a way that means the user is either never aware of the
+failure or is alerted to the fact that certain features on the website are not compatible with
+his or her browser. The alternative to degrading gracefully is for your code to raise lots of
+error messages, cause strange results to be displayed on the page, and generally make you
+look like an idiot who doesn’t know what he’s doing!
+
+So how do you make your web pages degrade gracefully? You can do this by using
+JavaScript to determine which browser the web page is running in after it has been
+partially or completely loaded. You can use this information to determine what scripts to
+run or even to redirect the user to another page written to make best use of her particular
+browser. In later chapters, you see how to find out what features the browser supports and
+take appropriate action so that your pages work acceptably on as many browsers as
+possible.
+
+/   /   /   /   /   /   /   /
+
+The message box displayed by the  alert()  function is modal. This is an important
+concept, which you’ll come across again. It simply means that the message box won’t
+go away until the user closes it by clicking the OK button. In fact, parsing of the page
+stops at the line where the  alert()  function is used and doesn’t restart until the user
+closes the message box.
+
+Another important point raised by this example is the difference between setting
+properties of the page, such as background color, via HTML and doing the same thing
+using JavaScript. The method of setting properties using HTML is static: A value can
+be set only once and never changed again by means of HTML. Setting properties
+using JavaScript enables you to dynamically change their values. The term dynamic
+refers to something that can be changed and whose value or appearance is not set in
+stone.
+
+/   /   /   /   /   /   /   /
+
+the order in which code works. When the browser loads in the web page, the browser goes through it,
+rendering it tag by tag from top to bottom of the page. This process is called parsing.
+
+/   /   /   /   /   /   /   /
+
+external js file advantages
+
+By using one external file and including
+it in all the pages that need it, you need to update the code only once and all the 30 pages
+are updated instantly. So much easier!
+Another advantage of using external files is that the browser will cache them, much as it
+does with images shared between pages. If your files are large, this could save download
+time and also reduce bandwidth usage.
+
+/   /   /   /   /   /   /   /
+
+the instructions, or what is termed code, are processed from the top line downward. This simply means that the computer looks at the code you’ve written, works out what action you want it to take, and then takes that action. The act of processing the code is called running or executing it.
+
+By host, we mean hosting environment; in this book, that is the web browser.
+
+Access to websites is a special service provided by particular computers on the Internet; the computers providing this service are known as web servers.
+
+Basically, the job of a web server is to hold lots of web pages on its hard drive. When a browser, usually on a different computer, requests a web page contained on that web server, the web server loads it from its own hard drive and then passes the page back to the requesting computer via a special communications protocol called Hypertext Transfer Protocol (HTTP).
+
+The computer running the web browser that makes the request is known as the client.
+
+Internet protocol (IP) addresses. These consist of four sets of numbers, separated by dots (for example, 127.0.0.1).
+
+On the Internet, the friendly name is converted to the actual IP address by computers called domain name servers, which your Internet service provider will have set up for you.
+
+
+When it comes to learning the basics, it’s often best to write the code by hand rather than rely on a tool to do it for you. This helps you understand the fundamentals of the language before you attempt the more advanced logic that is beyond a tool’s capability. When you have a good understanding of the basics, you can use tools as timesavers so that you can spend time on the more advanced and more interesting coding.
+
+<script>
+  // JavaScript goes here
+</script>
+
+We used to always set the type attribute to text/javascript, but with the introduction of the HTML5 specification, it is no longer considered good practice to do so
+
+NOTE The <script/> element can be used for more than just JavaScript. Some
+JavaScript-based templating engines use <script/> elements to contain snippets of
+HTML.
+
+Linking to an external file is common when incorporating well-known JavaScript libraries
+into a web page. The servers hosting these libraries are referred to as Content Delivery
+Networks, or CDNs. CDNs are relatively safe, but beware of linking to external files if
+they are controlled by other people.
+
+/   /   /   /   /   /   /   /
+
 How does this code work?
 // Math.floor(Math.random() * 5 + 1);
 
