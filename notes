@@ -12,11 +12,18 @@
 
 /   /   /   /   /   /   /   /
 
+Unlike the code you’ve seen so far,
+which executes when JavaScript reaches that line, functions only execute if you ask them
+to, which is termed __calling__ or __invoking__ the function
 
+What is meant by scope? Well, put simply, it’s the scope or extent of a variable’s or
+function’s availability—which parts of your code can access a variable and the data it
+contains.
 
 /   /   /   /   /   /   /   /
 
-
+it useful to build up a “library” of functions that you use frequently in
+JavaScript code, which you can reference in your pages
 
 /   /   /   /   /   /   /   /
 
