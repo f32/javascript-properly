@@ -17,6 +17,189 @@
 
 
 
+if you so wish
+remainder
+Everything from now on
+you concluded your look at
+Although
+appropriate
+as is
+Admittedly
+supplied value
+precious time
+replicate
+it’s perfectly valid
+So now that you understand
+seemingly
+Lookup
+Every so often
+unless
+retain
+Therefore
+consider
+boil down - сводится к тому
+throughout
+In practice, you want to avoid creating global variables and functions because they can be easily and unintentionally modified
+thus
+it’s imperative that you understand
+even more so in
+put simply
+extent
+this leads neatly to the next topic of this chapter—scope
+a subtle point
+which provides
+You should be pretty familiar
+are passed
+Have a go at
+comes across
+explicitly
+Usually
+in order to
+meaningful
+As you work your way through the book
+perform
+handy
+encapsulate
+prematurely
+defined by being in curly braces
+on a course of action to follow
+is similar to 0 in that it stops
+altogether
+prematurely
+it’s best avoided unless really necessary
+fairly rare;
+regardless
+despite
+deliberate
+remain
+Leaving this line out
+Suppose
+eventually
+whereas
+equally well
+conventional
+prior to the loop
+code extract
+loop through
+However, there is no reason why you can’t use fractional numbers, although it’s much less common to do so
+a dual purpose
+remains
+another execution of the loop code is performed
+statement.
+After the for statement comes the block of code
+To keep track
+makeup
+come in handy
+The code needed for plotting each point will most likely be the same
+you want to plot these on a graph.
+despite the instructions
+encompassing
+simply
+integer value
+leave it out
+as the name suggests
+underneath
+would commence
+namely
+efficient alternative
+How does he deal with this?
+so you have a few traps to watch out for
+they work just as well
+end up
+statement, which catches the situation in which the value of 0 did not trigger 1 in any of the earlier 2 conditions
+Failing that
+therefore
+otherwise
+provides
+You can achieve
+Instead
+is often
+unless you have a particularly tricky condition to evaluate
+almost
+the easiest way to approach understanding
+logical chunks
+We did so simply for demonstration purposes
+does not actually evaluate
+Thus
+themselves
+Let’s break down the condition into its component parts
+is similar to that of the first statement
+an overall result
+two halves
+The question posed by
+substituting your particular value
+You’ll substitute
+evaluate
+The easiest way to work out
+You look at each in detail in turn
+could be rewritten
+are strung
+he offers
+verbose
+inner
+outer
+nested
+The condition being evaluated is whether we're hot // или нам жарко
+If I’m not hot
+is not evaluated
+Otherwise
+doesn’t even bother
+it’s worth noting that
+circumstance
+results in another boolean value
+Recall
+with plenty
+bitwise operators
+implicitly
+Worse still
+you evaluate
+will be skipped over
+how did this alter the statement
+When trying out the example,
+a good practice to get into
+indented
+Also worth noting is the fact
+neither
+to leave them out
+you’ll be less likely
+regardless
+being executed
+particularly
+equally as well
+as belonging
+purpose
+The code to be executed if the condition
+follows the keyword
+almost
+the ease
+outcome
+on either side
+circumstances
+an order of precedence
+the more useful of which are summarized
+statement
+Recall
+depending on whether a particular condition is met.
+a certain course of action
+smarter
+it’s far from
+Validation of user input is probably one of the most common uses
+obtained
+information gathered
+capability
+appearance
+That is to say
+perform calculations
+in a descriptive sentence
+Attempting to
+on some occasions you need to force the conversion of data
+means of storing data
+You must match
+In particular
+That’s it
+This is getting out of hand
+rarely, if ever
+
 confusing
 storing it
 is very much the same
